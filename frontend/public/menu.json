@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "Buttercream Cake",
+    "description": "A classic moist cake layered with rich and creamy buttercream frosting.",
+    "price": 3.99,
+    "category": "dessert",
+    "veg": true,
+    "photo": "https://picsum.photos/seed/buttercream-cake/400/300"
+  },
+  {
+    "id": 2,
+    "name": "Banana Walnut",
+    "description": "Delightful banana cake baked with crunchy walnut pieces.",
+    "price": 3.99,
+    "category": "dessert",
+    "veg": true,
+    "photo": "https://picsum.photos/seed/banana-walnut/400/300"
+  },
+  {
+    "id": 3,
+    "name": "Shortbread Cookie",
+    "description": "Traditional buttery and crumbly baked cookie with a rich flavor.",
+    "price": 4.5,
+    "category": "dessert",
+    "veg": true,
+    "photo": "https://picsum.photos/seed/shortbread-cookie/400/300"
+  },
+  {
+    "id": 4,
+    "name": "Smothered Bread",
+    "description": "Freshly baked bread generously topped with melted cheese and seasonings.",
+    "price": 6.0,
+    "category": "veg-starter",
+    "veg": true,
+    "photo": "https://picsum.photos/seed/smothered-bread/400/300"
+  },
+  {
+    "id": 5,
+    "name": "Spicy Chicken",
+    "description": "Tender chicken cooked in a bold, fiery blend of spices.",
+    "price": 7.5,
+    "category": "nonveg-main",
+    "veg": false,
+    "photo": "https://picsum.photos/seed/spicy-chicken/400/300"
+  },
+  {
+    "id": 6,
+    "name": "Barbeque Burger",
+    "description": "Juicy grilled burger patty slathered in smoky barbecue sauce.",
+    "price": 3.99,
+    "category": "nonveg-main",
+    "veg": false,
+    "photo": "https://picsum.photos/seed/barbeque-burger/400/300"
+  },
+  {
+    "id": 7,
+    "name": "Hawaiian Burger",
+    "description": "Delicious burger topped with grilled pineapple and a savory patty.",
+    "price": 3.99,
+    "category": "nonveg-main",
+    "veg": false,
+    "photo": "https://picsum.photos/seed/hawaiian-burger/400/300"
+  },
+  {
+    "id": 8,
+    "name": "Rye Bread",
+    "description": "Hearty freshly baked rye bread loaf with a distinctive flavor.",
+    "price": 3.99,
+    "category": "veg-starter",
+    "veg": true,
+    "photo": "https://picsum.photos/seed/rye-bread/400/300"
+  },
+  {
+    "id": 9,
+    "name": "Country Bread",
+    "description": "Rustic artisanal bread with a crispy crust and soft crumb.",
+    "price": 3.99,
+    "category": "veg-starter",
+    "veg": true,
+    "photo": "https://picsum.photos/seed/country-bread/400/300"
+  },
+  {
+    "id": 10,
+    "name": "Honey Wheat",
+    "description": "Wholesome wheat bread lightly sweetened with natural honey.",
+    "price": 4.5,
+    "category": "veg-starter",
+    "veg": true,
+    "photo": "https://picsum.photos/seed/honey-wheat/400/300"
+  },
+  {
+    "id": 11,
+    "name": "Candy Cookie",
+    "description": "Sweet, chewy cookie studded with colorful candy pieces.",
+    "price": 3.99,
+    "category": "dessert",
+    "veg": true,
+    "photo": "https://picsum.photos/seed/candy-cookie/400/300"
+  },
+  {
+    "id": 12,
+    "name": "Orange Juice",
+    "description": "Refreshing freshly squeezed orange juice rich in citrus flavor.",
+    "price": 3.99,
+    "category": "beverage",
+    "veg": true,
+    "photo": "https://picsum.photos/seed/orange-juice/400/300"
+  },
+  {
+    "id": 13,
+    "name": "Peach Tamarin",
+    "description": "A sweet and tangy refreshing beverage made from peach and tamarind.",
+    "price": 4.5,
+    "category": "beverage",
+    "veg": true,
+    "photo": "https://picsum.photos/seed/peach-tamarin/400/300"
+  },
+  {
+    "id": 14,
+    "name": "Frozen Oreo",
+    "description": "Chilled blended dessert drink packed with crushed Oreo cookies.",
+    "price": 3.65,
+    "category": "dessert",
+    "veg": true,
+    "photo": "https://picsum.photos/seed/frozen-oreo/400/300"
+  },
+  {
+    "id": 15,
+    "name": "Purified Water",
+    "description": "Clean and refreshing bottled drinking water.",
+    "price": 3.99,
+    "category": "beverage",
+    "veg": true,
+    "photo": "https://picsum.photos/seed/purified-water/400/300"
+  },
+  {
+    "id": 16,
+    "name": "Sparkling Water",
+    "description": "Crisp and effervescent carbonated water.",
+    "price": 3.99,
+    "category": "beverage",
+    "veg": true,
+    "photo": "https://picsum.photos/seed/sparkling-water/400/300"
+  },
+  {
+    "id": 17,
+    "name": "Soda In A Bottle",
+    "description": "Chilled bottled carbonated soft drink.",
+    "price": 4.5,
+    "category": "beverage",
+    "veg": true,
+    "photo": "https://picsum.photos/seed/soda-in-a-bottle/400/300"
+  },
+  {
+    "id": 18,
+    "name": "Lemon Tea",
+    "description": "Refreshing brewed tea infused with tangy lemon flavor.",
+    "price": 3.65,
+    "category": "beverage",
+    "veg": true,
+    "photo": "https://picsum.photos/seed/lemon-tea/400/300"
+  }
+]
